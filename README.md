@@ -1,4 +1,4 @@
-# CephObjectStore
+# Ceph Object Store
 
 ## What ?
 Ceph, a free-software storage platform, implements object storage on a single distributed computer cluster, and provides interfaces for object-, block- and file-level storage. Ceph aims primarily for completely distributed operation without a single point of failure, scalable to the exabyte level, and highly available.
