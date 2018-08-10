@@ -17,5 +17,5 @@ RADOS
      
 RADOS that doesn't have a single point of failure as there is no central component, making it a perfect fit for CenterDevice’s architecture. In contrast to other distributed stores, Ceph uses an algorithm-only method to locate and store an object. This means that every client only needs to apply the CRUSH (Controlled, Scalable, Decentralized Placement of Replicated Data) algorithm to compute the corresponding object disk storage daemon (OSD) that is responsible for storing a particular object.
 
------------------------
-2018 @ Ranjith Manickam
+-----------------------------------------
+Ranjith Manickam | www.ranmanic.in @ 2018
